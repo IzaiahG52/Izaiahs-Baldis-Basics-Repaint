@@ -7,7 +7,15 @@ A near-complete visual and audio redesign of **Baldi's Basics**, developed from 
 - Almost full redesign of the game's look
 - Custom audio
 
-<!-- TODO: add a screenshot or gif, e.g. ![Screenshot](screenshots/school.png) -->
+## Screenshots
+
+![Title screen](screenshots/title-screen.png)
+
+![School hallway with the redesigned Baldi](screenshots/hallway.png)
+
+## Download
+
+Get the mod from the [latest release](https://github.com/IzaiahG52/Izaiahs-Baldis-Basics-Repaint/releases/latest) (the in-game title is *Mega's Basics*).
 
 ## About
 
